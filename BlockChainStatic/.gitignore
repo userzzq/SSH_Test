@@ -1,0 +1,8 @@
+/build/node_modules
+/springboot/logs
+/android/Decoin/gradle
+/android/Decoin/.gradle
+/android/Decoin/app/release
+/android/Decoin/app/src/main/assets
+/nginx/temp
+/nginx/logs
